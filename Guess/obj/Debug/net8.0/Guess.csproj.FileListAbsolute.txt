@@ -1,0 +1,14 @@
+C:\Users\natha\source\repos\Guess\Guess\bin\Debug\net8.0\Guess.exe
+C:\Users\natha\source\repos\Guess\Guess\bin\Debug\net8.0\Guess.deps.json
+C:\Users\natha\source\repos\Guess\Guess\bin\Debug\net8.0\Guess.runtimeconfig.json
+C:\Users\natha\source\repos\Guess\Guess\bin\Debug\net8.0\Guess.dll
+C:\Users\natha\source\repos\Guess\Guess\bin\Debug\net8.0\Guess.pdb
+C:\Users\natha\source\repos\Guess\Guess\obj\Debug\net8.0\Guess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\source\repos\Guess\Guess\obj\Debug\net8.0\Guess.AssemblyInfoInputs.cache
+C:\Users\natha\source\repos\Guess\Guess\obj\Debug\net8.0\Guess.AssemblyInfo.cs
+C:\Users\natha\source\repos\Guess\Guess\obj\Debug\net8.0\Guess.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\Guess\Guess\obj\Debug\net8.0\Guess.dll
+C:\Users\natha\source\repos\Guess\Guess\obj\Debug\net8.0\refint\Guess.dll
+C:\Users\natha\source\repos\Guess\Guess\obj\Debug\net8.0\Guess.pdb
+C:\Users\natha\source\repos\Guess\Guess\obj\Debug\net8.0\Guess.genruntimeconfig.cache
+C:\Users\natha\source\repos\Guess\Guess\obj\Debug\net8.0\ref\Guess.dll
